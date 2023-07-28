@@ -1,5 +1,7 @@
 # Private Wealth Client AI Assistant
 
+BLOG POST: https://vincentlu91.github.io/2023/07/28/LLM-Conversational-AI-Assistant.html
+
 This project addresses a use case in which clients seek a better understanding of a marketing brochure before choosing to make a decision, or to seek further information from a service provider. In this case, the LLM-powered AI assistant is trained on a public-facing document about wealth investing services offered by an established bank.
 
 The project is deployed via Streamlit. Link to the project can be found below:
