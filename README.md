@@ -1,4 +1,4 @@
-# PrivateWealthClientAI
+# Private Wealth Client AI Assistant
 
 This project addresses a use case in which clients seek a better understanding of a marketing brochure before choosing to make a decision, or to seek further information from a service provider. In this case, the LLM-powered AI assistant is trained on a public-facing document about wealth investing services offered by an established bank.
 
