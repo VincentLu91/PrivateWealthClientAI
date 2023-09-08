@@ -8,7 +8,12 @@ The project is deployed via Streamlit. Link to the project can be found below:
 
 https://pwcai-82m4lkzqptu.streamlit.app/
 
-Source of dataset:
+## Sources of dataset
+
+TDPCW Managed Account Program Brochure:
+https://www.td.com/content/dam/tdb/document/pdf/investing/td-private-client-wealth-llc-managed-account-program-bochure-en.pdf
+
+TD Automated Investing and TD Automated Investing Plus Program Brochure:
 https://www.td.com/content/dam/tdb/document/pdf/investing/tdpcwautomatedinvestingformadvpart2a-en.pdf
 
 <img width="954" alt="Screenshot 2023-07-26 at 6 06 41 PM" src="https://github.com/VincentLu91/PrivateWealthClientAI/assets/3411100/c6a7f350-0380-44a5-a894-2cf40dd2cac0">
