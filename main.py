@@ -18,10 +18,11 @@ load_dotenv()
 st.subheader("Private Client Wealth AI Assistant")
 
 st.write("""Sourced from:""")
+st.write("""https://www.td.com/content/dam/tdb/document/pdf/investing/td-private-client-wealth-llc-managed-account-program-bochure-en.pdf""")
 st.write("""https://www.td.com/content/dam/tdb/document/pdf/investing/tdpcwautomatedinvestingformadvpart2a-en.pdf""")
 
 if 'responses' not in st.session_state:
-    st.session_state['responses'] = ["Hello! Chances you are here because you are looking to understand TD's Automated Investing and TD Automated Investing Plus Programs. I'm happy to answer any questions you may have with the brochure as linked above. So, how may I help you?"]
+    st.session_state['responses'] = ["Hello! Chances you are here because you are looking to understand TD's Private Client Wealth products. I'm happy to answer any questions you may have with the brochure as linked above. So, how may I help you?"]
 
 if 'requests' not in st.session_state:
     st.session_state['requests'] = []
